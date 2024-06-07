@@ -1,7 +1,6 @@
 @charset "UTF-8";
 html{
     font-size: 100%;
-    background-image:bg.png;
 }
 h1{
     background-color:red;
@@ -11,4 +10,8 @@ h1{
 h2{
     color:blue;
     font-size:1.5rem;
+}
+body{
+    
+    background-image: bg.png ;
 }
